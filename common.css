@@ -1,0 +1,16 @@
+
+.login-list{
+  padding: 10px;
+  list-style: none;
+}
+
+.btn{
+  width: 60px;
+  margin-right: 10px;
+}
+
+.login-list>li>span{
+  color: red;
+  display: inline-block;
+  width: 80px;
+}

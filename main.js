@@ -1,4 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Hello from './src/index.jsx'
-ReactDOM.render(<Hello/>, document.getElementById('root'))
+import Login from './src/index.js'
+import './common.css'
+
+ReactDOM.render(<Login/>, document.getElementById('root'))
